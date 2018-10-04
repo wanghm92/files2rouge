@@ -13,8 +13,8 @@
 """
 from __future__ import absolute_import
 from __future__ import print_function, division
-from files2rouge import settings
-from files2rouge import utils
+import settings
+import utils
 from time import time
 import os
 import sys
